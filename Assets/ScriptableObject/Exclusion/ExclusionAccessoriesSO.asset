@@ -1,0 +1,18 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d0477df6b92f0554ba58d0f7aa8a6138, type: 3}
+  m_Name: ExclusionAccessoriesSO
+  m_EditorClassIdentifier: 
+  PageType: 4
+  ItemShopSO:
+  - {fileID: 11400000, guid: fcc2129f3085c9849b5ba93fc87bea4f, type: 2}
+  - {fileID: 11400000, guid: 3ba0c9f0b72c02249bb883030742b0bc, type: 2}

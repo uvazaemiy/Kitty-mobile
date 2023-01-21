@@ -1,0 +1,39 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 6fcb9f34a95835f44adf42496f19717b, type: 3}
+  m_Name: SleepQuestionSO
+  m_EditorClassIdentifier: 
+  TypePopup: 2
+  Question: "\u0429\u043E \u0440\u043E\u0431\u0438\u0442\u0438 \u0434\u0430\u043B\u0456?"
+  Answers:
+  - Text: "\u041F\u043E\u0457\u0441\u0442\u0438"
+    SizeText: 50
+    RewardCoefficient: 60
+    RightAnswer: 0
+    Message: "\u042F\u043A\u0435 \u0457\u0441\u0442\u0438!? \u041F\u0456\u0441\u043B\u044F
+      \u0441\u043D\u0443 \u0442\u0440\u0435\u0431\u0430 \u0432\u043C\u0438\u0442\u0438\u0441\u044F
+      \u0456 \u043F\u043E\u0447\u0438\u0441\u0442\u0438\u0442\u0438 \u0437\u0443\u0431\u043A\u0438"
+    Sprite: {fileID: 21300000, guid: f066a22b1ab66a841aacb3d11d0ed2a7, type: 3}
+  - Text: "\u0412\u043C\u0438\u0442\u0438\u0441\u044F \u0442\u0430 \u043F\u043E\u0447\u0438\u0441\u0442\u0438\u0442\u0438
+      \u0437\u0443\u0431\u043A\u0438"
+    SizeText: 50
+    RewardCoefficient: 100
+    RightAnswer: 1
+    Message: "\u0412\u0456\u0440\u043D\u043E, \u043C\u043E\u043B\u043E\u0434\u0447\u0438\u043D\u043A\u0430!"
+    Sprite: {fileID: 21300000, guid: 7a84bd24fe5deea49bfd1ddc62c9040f, type: 3}
+  - Text: "\u0412\u043C\u0438\u0432\u0430\u0442\u0438\u0441\u044F"
+    SizeText: 50
+    RewardCoefficient: 90
+    RightAnswer: 0
+    Message: "\u0410 \u0437\u0443\u0431\u043A\u0438 \u0445\u0442\u043E \u0447\u0438\u0441\u0442\u0438\u0442\u0438
+      \u0431\u0443\u0434\u0435?!"
+    Sprite: {fileID: 21300000, guid: 700baa499e5dbd848863424ad49c7ba2, type: 3}

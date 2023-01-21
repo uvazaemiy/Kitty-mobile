@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a7be33a07202a964c802866c8df52bca, type: 3}
+  m_Name: RedSofa
+  m_EditorClassIdentifier: Assembly-CSharp::ItemShopSO
+  Name: "\u0427\u0435\u0440\u0432\u043E\u043D\u0438\u0439 \u0434\u0438\u0432\u0430\u043D"
+  Sprite: {fileID: 21300000, guid: 289877adcf0b92b4ab698beea223e5c4, type: 3}
+  Price: 300
+  OnlyCode: 0
+  Template: {fileID: 8152996682989478043, guid: 4288d6c0d1139ed40b3020f96b538918, type: 3}
+  Position: {x: 0, y: 0.05, z: -2.2}
+  Rotation: {x: 0, y: 0, z: 0}
+  Index: 0
